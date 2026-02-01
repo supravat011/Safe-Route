@@ -1,0 +1,8 @@
+{
+  "name": "SAFE ROUTE",
+  "description": "Smart Road Safety Awareness & Accident Reporting Portal enabling citizens to report accidents and authorities to monitor data.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
